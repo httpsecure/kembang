@@ -18,6 +18,7 @@ I made this theme for learning purpose, why this theme name kembang ? kembang = 
 * About, Tags, and List pages
 * Easy to customize
 * lighthouse score 100%
+* Mozilla Observatory A+ click this [link](https://kembang-theme.netlify.app/)
 
 This theme using bootstrap 5.2
 
@@ -37,6 +38,12 @@ and add this inside **head.html**
 ```
 ## Lighthouse 
 ![Lighthouse](https://raw.githubusercontent.com/httpsecure/gambar-blog/main/light.png)
+
+## Installation
+
+Navigate to the root directory of your Hugo site and clone this repository.
+
+Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for more information.
 
 ## License
 
