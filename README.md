@@ -29,7 +29,7 @@ custom_css = [ "/css/main.css", "/css/normalize.css", "/css/bootstrap.css"]
 for production You can use CDN and delete this line parameters
 ```
 "/css/bootstrap.css"
-``
+```
 and add this inside **head.html**
 ```
 <!-- CSS only -->
