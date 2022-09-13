@@ -60,6 +60,8 @@ for this theme using solarized-dark256
 
 ## Installation
 
+You can download the theme manually or
+
 Navigate to the root directory of your Hugo site and clone this repository.
 ``` 
 $ git clone https://github.com/httpsecure/kembang.git themes/kembang
