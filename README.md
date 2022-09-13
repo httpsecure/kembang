@@ -13,11 +13,11 @@ I made this theme for learning purpose, why this theme name kembang ? kembang = 
 
 ## Features
 
-*Fully responsive
-*Bootstrap CSS only
-*About, Tags, and List pages
-*Easy to customize
-*lighthouse score 100%
+* Fully responsive
+* Bootstrap CSS only
+* About, Tags, and List pages
+* Easy to customize
+* lighthouse score 100%
 
 This theme using bootstrap 5.2
 
