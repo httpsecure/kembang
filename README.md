@@ -42,13 +42,16 @@ and add this inside **head.html**
 
 ##Code highlighting
 By default hugo using chroma to color your code syntax. All you need to do is to wrap you code like this:
-
+```
 ``` css
   // your code here
+```
 ```
 for style prefered you can try this :
 
 [https://swapoff.org/chroma/playground/](h)
+
+for this theme using solarized-dark256
 
 ## Installation
 
