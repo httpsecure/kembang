@@ -37,11 +37,14 @@ and add this inside **head.html**
 <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 ```
-## Lighthouse 
+## Lighthouse score
+
 ![Lighthouse](https://raw.githubusercontent.com/httpsecure/gambar-blog/main/light.png)
 
-##Code highlighting
+## Code highlighting
+
 By default hugo using chroma to color your code syntax. All you need to do is to wrap you code like this:
+
 <pre>
 ``` css
   // your code here
@@ -56,7 +59,9 @@ for this theme using solarized-dark256
 ## Installation
 
 Navigate to the root directory of your Hugo site and clone this repository.
-
+``` 
+$ git clone https://github.com/httpsecure/kembang.git themes/kembang
+```
 Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for more information.
 
 ## License
