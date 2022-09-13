@@ -47,6 +47,7 @@ By default hugo using chroma to color your code syntax. All you need to do is to
   // your code here
 ```
 ```
+```
 for style prefered you can try this :
 
 [https://swapoff.org/chroma/playground/](h)
