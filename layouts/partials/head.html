@@ -1,0 +1,43 @@
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Your description">
+<meta name="theme-color" content="#0e0b2b">
+
+<!-- canonical url-->
+
+{{- if isset .Params "canonical" -}}
+  <link rel="canonical" href="{{ .Params.canonical }}" />
+{{- else -}}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{- end }}
+
+<!-- Internal template -->
+{{ template "_internal/schema.html" . }}
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+<!-- Tab info -->
+<title>
+    {{- if .IsHome -}}
+      {{ .Site.Title }}
+    {{- else if .Params.hide_site_title -}}
+      {{ .Page.Title }}
+    {{- else if .Page.Title -}}
+      {{ .Page.Title }} | {{ .Site.Title }}
+    {{- else -}}
+      {{ .Site.Title }}
+    {{- end -}}
+</title> 
+
+<!-- SCSS -->
+
+{{ $style := resources.Get "font.scss" | resources.ToCSS | resources.Fingerprint }}
+<link defer rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ .Data.Integrity }}">
+
+
+<!-- custom css-->
+{{ range .Site.Params.custom_css -}}
+<link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
+

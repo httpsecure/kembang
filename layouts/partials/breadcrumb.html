@@ -1,0 +1,11 @@
+<ol class="breadcrumb">
+    <li><a href="/">Kembang</a></li>
+    {{ $rellink := "" }}
+    {{ range (split .RelPermalink "/") }}
+      {{ if gt (len . ) 0 -}}
+        {{ $rellink = printf "%s/%s" $rellink . }}
+        <li><a href="{{ $rellink }}">{{ humanize . }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ol>
+  

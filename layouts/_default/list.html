@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="container wrapper list">
+   <div class="kepala-list">
+    <h3 class="page-title">All Flowers Articles</h3>
+   </div>
+    {{.Content }}
+    <ul class="lists">
+        {{- range .Pages -}}
+        <li class="post">
+            <div class="list-group list-group-checkable d-grid gap-2 border-0 w-auto">
+            <label class="list-group-item rounded-3 py-3" for="listGroupCheckableRadios1">
+            <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }} </span> 
+            <a href="{{ .RelPermalink }}">{{.Title}}</a>
+        </label>
+    </div>
+        </li>
+        {{- end -}}
+        
+    </ul>
+</div>
+{{ end }}

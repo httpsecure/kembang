@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="container">
+  {{- partial "breadcrumb.html" . -}}
+  <div class="row justify-content-center">
+      <div class="pr-lg-4">
+        <div class="title mb-5">
+          <h1 class="text-left mb-4 fw-bold">{{ .Title }}</h1>
+          <div class="text-left">  
+           <div class="time">by Aziz | {{ .Date.Format "January 2, 2006" }}</div> 
+          </div>
+        </div>
+        <article class="page-content">
+        {{ .Content }}
+        </article>
+        {{ with .Params.tags }}
+        <button class="btn btn-outline-light btn-sm" type="button">
+				<div id="tags" >
+					{{ range . }}
+					<li><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+        </div>
+      </button>
+			{{ end }}
+      </div>
+    </div>
+ 
+  </div>
+</div>
+{{ end }}
