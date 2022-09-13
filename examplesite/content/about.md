@@ -18,7 +18,7 @@ disableHugoGeneratorInject = true
 custom_css = [ "/css/main.css", "/css/normalize.css","/css/bootstrap.css"]
 description = 'Kembang Theme'
 author = "Aziz NK"
-homeDownload = "Want this theme ? Download [here](https://www.github.com/httpsecure/hugo-theme-kembang). Thanks"
+homeDownload = "Want this theme ? Download [here](https://www.github.com/httpsecure/kembang). Thanks"
 ```
 
 
