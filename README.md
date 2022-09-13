@@ -1,4 +1,4 @@
-# hugo-theme-kembang
+# kembang
 Hugo Theme Minimalist With Bootstrap
 
 
@@ -12,9 +12,6 @@ Hugo Theme Minimalist With Bootstrap
   Kembang
 </h1>
 
-<h3 align="center">
-  Simple Blogging Theme
-</h3>
 
 <p align="center">
   Kembang is a Hugo theme for blogging websites made with bootstrap, which you can easily update and customize.
