@@ -50,4 +50,4 @@ Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for mor
 
 This theme released under the [MIT License](https://github.com/httpsecure/kembang/blob/main/LICENSE) same as Bootstrap.
 
-But you dont must put link this theme source to your site.
+But you dont must put link this theme source in your site.
