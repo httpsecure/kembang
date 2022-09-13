@@ -23,7 +23,7 @@ This theme using bootstrap 5.2
 
 using BS for local development
 
-``
+```
 custom_css = [ "/css/main.css", "/css/normalize.css", "/css/bootstrap.css"]
 ```
 for production You can use CDN and delete this line parameters
