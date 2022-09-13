@@ -7,7 +7,7 @@ I made this theme for learning purpose, why this theme name kembang ? kembang = 
 
 ## Demo
 
- Some text on demo site from wikipedia & flowers imaages unsplash.
+ Some text on demo site from wikipedia & flowers images unsplash.
  
  [kembang-theme.netlify.app](https://kembang-theme.netlify.app/)
 
