@@ -4,7 +4,7 @@ Hugo Theme Minimalist With Bootstrap
 
 <p align="center">
   <a href="https://www.github.com/httpsecure/hugo-theme-kembang">
-    <img alt="Kembang" src="https://raw.githubusercontent.com/httpsecure/hugo-theme-kembang/main/images/screenshot.png?token=GHSAT0AAAAAABYXA75TBORGMOPPTEJRSMFAYZAS4ZA" width="60">
+    <img alt="Kembang" src="https://raw.githubusercontent.com/httpsecure/hugo-theme-kembang/main/images/screenshot.png?token=GHSAT0AAAAAABYXA75TBORGMOPPTEJRSMFAYZAS4ZA">
   </a>
 </p>
 
