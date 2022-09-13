@@ -40,6 +40,16 @@ and add this inside **head.html**
 ## Lighthouse 
 ![Lighthouse](https://raw.githubusercontent.com/httpsecure/gambar-blog/main/light.png)
 
+##Code highlighting
+By default hugo using chroma to color your code syntax. All you need to do is to wrap you code like this:
+
+``` css
+  // your code here
+```
+for style prefered you can try this :
+
+![https://swapoff.org/chroma/playground/](https://swapoff.org/chroma/playground/)
+
 ## Installation
 
 Navigate to the root directory of your Hugo site and clone this repository.
