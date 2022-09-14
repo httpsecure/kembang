@@ -69,6 +69,9 @@ git clone https://github.com/httpsecure/kembang.git themes/kembang
 ```
 Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for more information.
 
+##Discussions
+[Discussions](https://github.com/httpsecure/kembang/discussions)
+
 ## License
 
 This theme released under the [MIT License](https://github.com/httpsecure/kembang/blob/main/LICENSE) same as Bootstrap.
