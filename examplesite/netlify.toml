@@ -16,5 +16,5 @@ X-XSS-Protection = "1; mode=block"
 X-Frame-Options = "DENY"
 Referrer-Policy = "strict-origin-when-cross-origin"
 Cache-Control = "private, max-age=31536000"
-
+Content-Security-Policy = "default-src 'none';  form-action 'none'; frame-ancestors https://jamstackthemes.dev ; base-uri 'none'; manifest-src 'self'; connect-src 'self'; font-src 'self'; img-src 'self'; script-src 'self'; style-src 'self' https://*.netlify.app 'unsafe-inline'"
 
