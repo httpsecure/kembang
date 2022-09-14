@@ -60,7 +60,8 @@ for this theme using solarized-dark256
 
 ## Installation
 
-You can download the theme manually or
+You can download the theme manually, extract & copy the examplesite go to themes directory
+or
 
 Navigate to the root directory of your Hugo site and clone this repository.
 ``` 
