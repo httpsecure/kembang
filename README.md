@@ -54,7 +54,7 @@ By default hugo using chroma to color your code syntax. All you need to do is to
 </pre>
 for style prefered you can try this :
 
-[https://swapoff.org/chroma/playground/](h)
+[https://swapoff.org/chroma/playground/](https://swapoff.org/chroma/playground/)
 
 for this theme using solarized-dark256
 
