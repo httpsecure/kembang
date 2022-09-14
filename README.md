@@ -64,7 +64,7 @@ You can download the theme manually or
 
 Navigate to the root directory of your Hugo site and clone this repository.
 ``` 
-$ git clone https://github.com/httpsecure/kembang.git themes/kembang
+git clone https://github.com/httpsecure/kembang.git themes/kembang
 ```
 Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for more information.
 
