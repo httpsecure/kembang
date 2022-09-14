@@ -69,6 +69,12 @@ git clone https://github.com/httpsecure/kembang.git themes/kembang
 ```
 Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for more information.
 
+## Note
+
+if you manualy install hugi, you must install hugo extended version
+
+if you using debian/ubuntu & install hugo from repo it will include libsass1
+
 ## Discussions
 
 [Discussions](https://github.com/httpsecure/kembang/discussions)
