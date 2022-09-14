@@ -21,7 +21,7 @@ why this theme name kembang ? kembang = flowers.
 * Easy to customize
 * lighthouse score 100%
 * local font jost
-* Mozilla Observatory A+ click this [link](https://kembang-theme.netlify.app/)
+* Mozilla Observatory A+ click this [link](https://observatory.mozilla.org/analyze/kembang-theme.netlify.app)
 
 This theme using bootstrap 5.2
 
@@ -72,4 +72,4 @@ Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for mor
 
 This theme released under the [MIT License](https://github.com/httpsecure/kembang/blob/main/LICENSE) same as Bootstrap.
 
-But you dont must put link this theme source in your site.
+
