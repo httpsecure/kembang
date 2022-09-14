@@ -71,7 +71,7 @@ Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for mor
 
 ## Note
 
-if you manualy install hugi, you must install hugo extended version
+if you manualy install hugo, you must install hugo extended version
 
 if you using debian/ubuntu & install hugo from repo it will include libsass1
 
