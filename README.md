@@ -49,7 +49,7 @@ By default hugo using chroma to color your code syntax. All you need to do is to
 
 <pre>
 ``` css
-  // your code here
+ your code here
 ```
 </pre>
 for style prefered you can try this :
