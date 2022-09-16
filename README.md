@@ -9,9 +9,13 @@ why this theme name kembang ? kembang = flowers.
 
 ## Demo
 
- Some text on demo site from wikipedia, flowers images unsplash, svg icon bootstrap.
+**Credit**
+
+ * Some text on demo site from wikipedia
+ * Flowers images from unsplash
+ * SVG icon bootstrap.
  
- [kembang-theme.netlify.app](https://kembang-theme.netlify.app/)
+ [Demo Site](https://kembang-theme.netlify.app/)
 
 ## Features
 
