@@ -9,7 +9,7 @@ why this theme name kembang ? kembang = flowers.
 
 ## Demo
 
-**Credit**
+**Credit :**
 
  * Some text on demo site from wikipedia
  * Flowers images from unsplash
