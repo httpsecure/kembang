@@ -1,10 +1,10 @@
 name = "Kembang"
 license = "MIT"
-licenselink = "https://github.com/httpsecure/kembang/blob/main/LICENSE"
+licenselink = "https://github.com/aznkh/kembang/blob/main/LICENSE"
 description = "Minimalist Blogging Theme"
 
 # The home page of the theme, where the source can be found.
-homepage = "https://github.com/httpsecure/kembang"
+homepage = "https://github.com/aznkh/kembang"
 
 # If you have a running demo of the theme.
 demosite = "https://kembang-theme.netlify.app/"
@@ -15,6 +15,6 @@ features = ["bootstrap", "local font"]
 
 # If the theme has a single author
 [author]
-    name = "Aziz NK"
-    homepage = "https://aziz.pages.dev"
+    name = "Aziz"
+    homepage = "https://github.com/aznkh"
 
