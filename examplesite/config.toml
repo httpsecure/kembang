@@ -14,4 +14,8 @@ author = "Aziz NK"
 homeDownload = "Want this theme ? Download [here](https://www.github.com/aznkh/kembang). Thanks"
 
    
-
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
