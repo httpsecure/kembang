@@ -1,7 +1,7 @@
 
 ## kembang
 
-![kembang](https://github.com/httpsecure/kembang/images/screenshot.png)
+![kembang](https://github.com/httpsecure/kembang/main/images/screenshot.png)
 
 
 I made this theme for learning purpose so maybe not perfect.
