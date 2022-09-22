@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f1f88606-2808-460b-9ae4-7c75347cd8e0/deploy-status)](https://app.netlify.com/sites/kembang-theme/deploys)
-
 
 ## kembang
 
