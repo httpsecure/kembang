@@ -71,7 +71,7 @@ or
 
 Navigate to the root directory of your Hugo site and clone this repository.
 ``` 
-git clone https://github.com/aznkh/kembang.git themes/kembang
+git clone https://github.com/httpsecure/kembang.git themes/kembang
 ```
 Refer to the [Hugo docs](https://gohugo.io/getting-started/quick-start/) for more information.
 
@@ -83,7 +83,7 @@ If you using debian/ubuntu & install hugo from repo it will include **libsass1**
 
 ## Discussions
 
-[Discussions](https://github.com/aznkh/kembang/discussions)
+[Discussions](https://github.com/httpsecure/kembang/discussions)
 
 ## License
 
