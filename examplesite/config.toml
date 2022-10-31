@@ -6,6 +6,7 @@ PygmentsStyle = "solarized-dark256"
 pluralizelisttitles = "false"
 paginate  = 6
 disableHugoGeneratorInject = true
+enableEmoji = false
 
 [params]
 custom_css = [ "/css/main.css", "/css/normalize.css", "/css/bootstrap.css"]
