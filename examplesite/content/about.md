@@ -5,7 +5,7 @@ draft: false
 
 ---
 ```toml
-baseURL = "https://aziz.pages.dev"
+baseURL = "https://examplec.org"
 languageCode = "id"
 title = "Kembang"
 PygmentsCodeFences = true
@@ -17,7 +17,7 @@ disableHugoGeneratorInject = true
 [params]
 custom_css = [ "/css/main.css", "/css/normalize.css","/css/bootstrap.css"]
 description = 'Kembang Theme'
-author = "Aziz NK"
+author = "Wijaya"
 homeDownload = "Want this theme ? Download [here](https://www.github.com/httpsecure/kembang). Thanks"
 ```
 
